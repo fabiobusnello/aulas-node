@@ -1,0 +1,24 @@
+{
+  "name": "aulas-node",
+  "version": "0.0.1",
+  "description": "just to learn",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiobusnello/aulas-node.git"
+  },
+  "author": "Magno e Abel",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fabiobusnello/aulas-node/issues"
+  },
+  "homepage": "https://github.com/fabiobusnello/aulas-node#readme"
+}
