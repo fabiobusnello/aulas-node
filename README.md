@@ -22,4 +22,4 @@ Abel e Magno na ardua tarefa de aprender node.js com o melhor cara do mundo !!
 
 ## Author
 
-* **Magno OZzyr** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Magno Ozzyr** - *urru*
