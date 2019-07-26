@@ -4,8 +4,7 @@
   "description": "just to learn",
   "main": "index.js",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^1.19.1"
+    "express": "^4.17.1"
   },
   "devDependencies": {},
   "scripts": {
