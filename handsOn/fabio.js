@@ -12,8 +12,8 @@ const arrayOfObjects = [{name: "Fabio"}, {name: "Magno"}, {name: "Abel"}, {name:
 const arraySimpleFiltered = value => value == "Magno"
 const arrayOfObjectFiltered = obj => obj.name == "Magno"
 
-const newDataFiltered = array.filter(arraySimpleFiltered)
-const newDataObjFiltered = arrayOfObjects.filter(arrayOfObjectFiltered)
+ const newDataFiltered = array.filter(arraySimpleFiltered)
+ const newDataObjFiltered = arrayOfObjects.filter(arrayOfObjectFiltered)
 
 console.log(newDataFiltered)
 console.log(newDataObjFiltered)
