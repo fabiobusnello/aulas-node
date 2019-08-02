@@ -64,7 +64,7 @@ Object.defineProperty(players_sp, 'toString', {
 })
 console.log (players_sp [2])
 
-
+const buttonUpdate = () => {}
 
 
 
